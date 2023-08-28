@@ -69,6 +69,7 @@ console.log(factorial(6));
 console.log(factorial(8));
   */
 
+
 const data = {
   id: "0",
   array: [
